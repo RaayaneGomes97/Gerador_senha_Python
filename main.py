@@ -14,9 +14,10 @@ class Functions():
         valores += string.digits # Números de 0 a 9
         valores += string.punctuation  #Sequência de caracteres ASCII
         tamanho = 10
+        global senha
         senha = " "
 
-        global senha
+        
 
 
         for x in range(tamanho):
