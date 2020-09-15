@@ -4,6 +4,7 @@
 <body>	
   <h1> Gerador de senha simples </h1>
 
- Gera senhas aleatória e segura com um tamanho definido de 10 caracteres. A senha é criada contendo números, letras maíusculas, letras mínusculas e caracteres especiais.
+  <p>Gera senhas aleatória e segura com um tamanho definido de 10 caracteres. </p> 
+   <p>A senha é criada contendo números, letras maíusculas, letras mínusculas e caracteres especiais. </p>
  
 <img src= "https://github.com/RayaneGomes97/Imagens/blob/master/aleatorias/geradorsenha.png">
